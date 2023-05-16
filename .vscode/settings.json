@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "new": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "iterator": "cpp",
+        "memory_resource": "cpp",
+        "tuple": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "numeric": "cpp",
+        "streambuf": "cpp",
+        "cmath": "cpp"
+    }
+}
